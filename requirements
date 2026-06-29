@@ -1,0 +1,9 @@
+requirements:
+
+gymnasium
+stable-baselines3
+opencv-python
+numpy
+matplotlib
+imageio
+shimmy
