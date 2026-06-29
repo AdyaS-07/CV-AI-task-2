@@ -43,7 +43,7 @@ A step penalty of -1 is given for every move to discourage unnecessary movement.
 REINFORCEMENT LEARNING (RL) ALGORITHM:
 The agent is trained using Proximal Policy Optimization (PPO).
 Training parameters include:
-* Policy: MLP
+* Policy: MLP (multilayer perceptron)
 * Learning Rate: 0.0003
 * Gamma: 0.99
 * Total Timesteps: 20,000 (can be increased for improved performance)
